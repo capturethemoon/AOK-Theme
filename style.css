@@ -508,3 +508,16 @@ padding: 2% 9% 2% 5%;
 #headerimg {
   padding-top: 2%;
 }
+
+.primary {
+  width: 100;
+  margin-left: 5%;
+}
+
+.row p {
+  width: 50%;
+}
+
+#page {
+min-height: 75%;
+}
